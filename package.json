@@ -10,7 +10,6 @@
 	},
 	"main": "server.js",
 	"scripts": {
-		"start": "node server.js",
-		"postinstall": "ng build"
+		"start": "node server.js"
 	}
 }
